@@ -27,6 +27,6 @@ create table usuarios (
 );
 
 -- inserindo alguns registros na tabela usuários
-insert into usuarios (email, senha, tipo, telefone, nome) 
-values ('jessica@ifsul.edu.br', '123456', 'A','(54)99999-9999','Jessica'), 
-('joao@ifsul.edu.br', '123456', 'U','(54)44484-4348','Joao');
+--insert into usuarios (email, senha, tipo, telefone, nome) 
+--values ('jessica@ifsul.edu.br', '123456', 'A','(54)99999-9999','Jessica'), 
+--('joao@ifsul.edu.br', '123456', 'U','(54)44484-4348','Joao');
